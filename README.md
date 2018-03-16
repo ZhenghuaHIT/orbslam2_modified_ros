@@ -1,7 +1,7 @@
 # orbslam2_modified_ros
 **Authors**: Zhenghua.Hou HIT 16S108281
 
-**2017.12.9**: Use ros run orbslam2_modified with Kinect v2.
+**2017.12.9**: Use to ros run orbslam2_modified with Kinect v2.
 
 **Introduction**: Dr.Gao Xiang has modified the ORB_SLAM2 so that it can display the point cloud map, but this version does not have the function of point cloud integration and point cloud preservation. Replace the provided document and project can save the point cloud as a PCD file after voxel filtering. Provides documentation for running under ROS
 
